@@ -1,6 +1,6 @@
 # Gerador-Matriz-em-C
 
-Trabalho interdisciplinar entre as disciplinas de linguagens e técnicas de programação 1 e cálculo 1.
+Trabalho interdisciplinar entre as disciplinas de linguagens e técnicas de programação e cálculo 1.
 
 ### Foi utilizado a linguagem C.
 
